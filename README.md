@@ -23,4 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Video might look different because the app is running on a jailbroken iPhone XR
+[Video Walkthrough](https://i.imgur.com/Y9UTEl5.mp4)
